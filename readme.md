@@ -24,7 +24,9 @@ DB (Initialization data sql for PostgreSQL)
 
 **Demo**
 
-![demo](./video/demo.mp4)
+
+<video src="./video/demo.mp4" width="320" height="240" controls>
+</video>
 
 ### Functional/Nonfunctional requirement
 
