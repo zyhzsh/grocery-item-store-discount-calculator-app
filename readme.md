@@ -24,7 +24,13 @@ DB (Initialization data sql for PostgreSQL)
 
 **Demo**
 
-![demo](./video/demo.mp4)
+
+https://github.com/zyhzsh/grocery-item-store-discount-calculator-app/assets/67240191/5ceb8640-d97a-47d5-a8d1-c858ff9fd5d1
+
+
+
+<video src="./video/demo.mp4" width="320" height="240" controls>
+</video>
 
 ### Functional/Nonfunctional requirement
 
