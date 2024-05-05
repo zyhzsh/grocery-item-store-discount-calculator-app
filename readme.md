@@ -32,7 +32,7 @@ https://github.com/zyhzsh/grocery-item-store-discount-calculator-app/assets/6724
 <video src="./video/demo.mp4" width="320" height="240" controls>
 </video>
 
-### Functional/Nonfunctional requirement
+### Entities Info
 
 #### Item Details
 
