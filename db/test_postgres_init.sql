@@ -80,11 +80,11 @@ SELECT 'EUR'::item_price_currency_enum, 'CAN'::item_price_unit_enum, 1.50, id FR
 UNION ALL
 SELECT 'EUR'::item_price_currency_enum, 'CAN'::item_price_unit_enum, 1.75, id FROM item WHERE name = 'Ale Beer'
 UNION ALL
-SELECT 'EUR'::item_price_currency_enum, 'PIECE'::item_price_unit_enum, 0.50, id FROM item WHERE name = 'Carrot'
+SELECT 'EUR'::item_price_currency_enum, 'GRAM'::item_price_unit_enum, 0.50, id FROM item WHERE name = 'Carrot'
 UNION ALL
-SELECT 'EUR'::item_price_currency_enum, 'PIECE'::item_price_unit_enum, 0.75, id FROM item WHERE name = 'Tomato'
+SELECT 'EUR'::item_price_currency_enum, 'GRAM'::item_price_unit_enum, 0.75, id FROM item WHERE name = 'Tomato'
 UNION ALL
-SELECT 'EUR'::item_price_currency_enum, 'PIECE'::item_price_unit_enum, 1.00, id FROM item WHERE name = 'Lettuce'
+SELECT 'EUR'::item_price_currency_enum, 'GRAM'::item_price_unit_enum, 1.00, id FROM item WHERE name = 'Lettuce'
 UNION ALL
 SELECT 'EUR'::item_price_currency_enum, 'PIECE'::item_price_unit_enum, 2.50, id FROM item WHERE name = 'Sourdough Bread'
 UNION ALL
