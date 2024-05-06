@@ -145,7 +145,7 @@ export class ItemService {
     );
 
     if (!validationResult)
-      new BadRequestException(
+      throw new BadRequestException(
         'Unit , product type and qunitity/weight, are not legit !',
       );
 
